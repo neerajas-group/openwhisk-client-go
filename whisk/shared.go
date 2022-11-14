@@ -97,5 +97,6 @@ type Limits struct {
 	Timeout     *int `json:"timeout,omitempty"`
 	Memory      *int `json:"memory,omitempty"`
 	Logsize     *int `json:"logs,omitempty"`
+	Cpu			*int `json:"cpu,omitempty"`
 	Concurrency *int `json:"concurrency,omitempty"`
 }

@@ -1,4 +1,4 @@
-module github.com/apache/openwhisk-client-go
+module github.com/neerajas-group/openwhisk-client-go 
 
 go 1.15
 
